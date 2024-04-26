@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1707226481 source:c:\users\mjand\onedrive\escritorio\calendario\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstdlib>
+	<windows.h>
+
